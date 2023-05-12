@@ -734,6 +734,16 @@ Awesome examples of SvelteKit in the wild. Visit **[janosh.github.io/awesome-sve
 
    uses: [Tailwind], [ProseMirror], [AWS]
 
+1. **[Chat UI](https://huggingface.co/chat)**&ensp;
+   [[code](https://github.com/huggingface/chat-ui)]&ensp;
+   <a href="https://github.com/huggingface/chat-ui/stargazers">
+   <img src="https://img.shields.io/github/stars/huggingface/chat-ui?logo=github" alt="GitHub stars" valign="middle">
+   </a>
+
+   Powers the HuggingChat app. Making the community's best AI chat models available to everyone.<br>
+
+   uses: [@huggingface/inference], [@huggingface/hub], [Tailwind]
+
 [algolia]: https://algolia.com
 [anime.js]: https://animejs.com
 [aws]: https://aws.amazon.com
